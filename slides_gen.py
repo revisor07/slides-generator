@@ -278,8 +278,8 @@ def generate_slides(text, slides_target):
 
 
 def main():
-    input_file = "input2.md"
-    slides_target = 3
+    input_file = "input.md"
+    slides_target = 14
 
     with open(input_file, "r", encoding="utf-8") as f:
         input_text = f.read()
