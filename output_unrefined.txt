@@ -1,0 +1,12 @@
+
+Slide 1:
+[mistral.ai](http://mistral.ai) strategic memo
+
+The power of generative AI was suddenly demonstrated to the general audience with the release of ChatGPT; this kind of product has been in the making by only a few small teams across the world — the few researchers of these teams are now the limiting factor to create new economic actors in the field.
+
+Generative AI is about to boost productivity in all sectors and create a new industry (10B market size as of 2022, projected to be 110B by 2030, with an estimated growth rate of 35% per year), by seamlessly enhancing the human mind with machine capabilities. It is a transformative technology for the world economy that will change the nature of work to bring positive societal changes.
+
+
+Generative AI technologies are based on years of research made in many parts of the industry and academia. The final breakthroughs, i.e. scaling training to internet-wide data and aligning models with human feedback, finally made these technologies usable by many; these breakthroughs were made by very few actors, the largest of which (OpenAI) appears to have hegemonic intention over the market.
+
+These very few actors train generative models and hold them as assets; they serve it to thousands of third-party productivity enhancing products, in addition to also serving first-party chatbot-like products. Dozens of third-party startups are created every month to build various interfaces to these generative models.
