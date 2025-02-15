@@ -10,7 +10,7 @@ Create file `secrets.toml` and add your OpenAI API key, file contents should fol
 openai_key="abcde"
 ```
 Run the program
-```Python
+```
 python slides_gen.py
 ```
 ## Reasoning
