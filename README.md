@@ -1,4 +1,4 @@
-# gamma-assignment
+# slides-generator
 A Python program to convert a Markdown file into a list of sections by discrete ideas that can later be used for presentation slides. The program utilizes markdown headings and OpenAI gpt-4o-mini LLM for decision making.
 ## Setup Instructions
 1. Install the packages
