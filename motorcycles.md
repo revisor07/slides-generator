@@ -1,8 +1,6 @@
-Slide 1:
 Types of Motorcycles: A Quick Guide
 Street/Standard Motorcycles
 Cruisers
-Slide 2:
 Sport Bikes
 Adventure Bikes
 Specialized Types

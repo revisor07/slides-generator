@@ -46,6 +46,7 @@ def headings_split(text):
         slides.append(current_slide.strip())
 
     print(f"Initial split into {len(slides)} sections.")
+    print(slides)
     return slides
 
 
@@ -130,6 +131,7 @@ def get_merge_decision(client, slides):
 
 
 def get_split_decision(client, slides):
+    print("snake")
     """
     Determines which slide should be split.
 
